@@ -1,0 +1,33 @@
+.container {
+    background: #666;
+}
+
+body {
+    background: #333;
+}
+
+#tron {
+    background: #999;
+    color: #fff;
+    text-align: center;
+}
+
+#content {
+    background: #999;
+    color: #fff;
+    border: 2px solid #999;
+}
+
+#nav {
+    background: #999;
+}
+
+#button {
+    background: #666;
+    color: #fff;
+    border: 2px solid #999;
+}
+
+#nav-content {
+    color: #fff;
+}
